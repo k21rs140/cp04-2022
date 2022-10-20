@@ -52,17 +52,23 @@
     }
     
     #btnB {
+        background-color: red;
+        color: black;
         font-family: fantasy;
         font-size: 20px;
         position:absolute; top:380px; left:45%; width:25%; height:60px; 
     }
 
     #btnC {
+        background-color: green;
+        color: yellow;
         font-size: 20px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
 
     #btnD {
+        background-color: green;
+        color: yellow;
         font-size: 20px;
         position:absolute; top:480px; left:70%; width:28%; height:60px; 
     }
