@@ -72,6 +72,13 @@
         font-size: 15px;
         position:absolute; top:480px; left:70%; width:28%; height:60px; 
     }
+
+    #btnE {
+        background-color: green;
+        color: yellow;
+        font-size: 20px;
+        position:absolute; top:480px; left:40%; width:28%; height:60px; 
+    }
     
     #minute {
         font-size: 30px;
