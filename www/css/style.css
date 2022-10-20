@@ -46,22 +46,24 @@
     #btnA {
         background-color: yellow;
         color: green;
-        font-size: 20px;
+        font-size: 30px;
+        font-family: fantasy;
         position:absolute; top:380px; left:2%; width:43%; height:60px; 
     }
     
     #btnB {
+        font-family: fantasy;
         font-size: 20px;
         position:absolute; top:380px; left:45%; width:25%; height:60px; 
     }
 
     #btnC {
-        font-size: 10px;
+        font-size: 20px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
 
     #btnD {
-        font-size: 10px;
+        font-size: 20px;
         position:absolute; top:480px; left:70%; width:28%; height:60px; 
     }
     
